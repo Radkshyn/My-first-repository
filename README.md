@@ -1,5 +1,3 @@
-# My-first-repository
-First repository
 # Мой первый репозиторий
 Данный репозиторий был создан в рамках [профессии С# - разработчик] (https://skillfactory.ru/csharp) на платформе SkillFactory.
 ## Текущий модуль
